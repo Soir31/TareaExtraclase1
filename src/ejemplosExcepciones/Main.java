@@ -1,6 +1,6 @@
 package ejemplosExcepciones;
 
-public class Main {//Ejemplo de un throw
+public class Main {//Ejemplo de un throw y un try
 
 	public static void main(String[] args) {
 		try {
