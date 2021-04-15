@@ -15,6 +15,6 @@ We also made a class diagram to have an idea of what we needed before starting t
 
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
 
-[Link](url)
+
 
 
