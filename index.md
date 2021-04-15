@@ -13,8 +13,8 @@ You can use the [editor on GitHub](https://github.com/Soir31/TareaExtraclase1/ed
 ##Class Diagram
 We also made a class diagram to have an idea of what we needed before starting to make the game.
 
+```
+### Header 3
+
+```
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
-
-
-
-
