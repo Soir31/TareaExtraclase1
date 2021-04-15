@@ -7,9 +7,11 @@ looking enemies that are the invaders to protect the planet. The enemies will mo
 ### Jira
 
 We kept a record of the tasks we assigned to each member of the group and its progress in [Jira](https://thespaceinvaders.atlassian.net/jira/software/projects/DATOS12021/boards/1/backlog).
-In here you can watch how the different tasks were made, the person in charge and the progress of how we developed the game.
+In here you can watch how the different tasks were made, the person in charge and the progress of how we developed the game. 
 
 ### Class Diagram
-We also made a class diagram to have an idea of what we needed and what we wanted to do before starting to make the game.
+We also made a class diagram to have an idea of what we needed and what we wanted to do before starting to make the game. We made this class diagram with the knowledge that we
+have about Java, linked lists, and Object Orientation Programming so it does not represents the final result of the game but instead it represents the general idea of what we
+thought that was necessary to complete the game in a good way.
 
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
