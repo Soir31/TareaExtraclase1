@@ -22,7 +22,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Diagram class](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
+![Diagram class](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
+Format: ![Alt Text](url)
+[Link](url)
 )
 ```
 
