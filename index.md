@@ -6,9 +6,8 @@ looking enemies that are the invaders to protect the planet. The enemies will mo
 
 ### Jira
 
-We kept a record of the tasks we assigned to each member of the group and its progress in [Jira]
-(https://thespaceinvaders.atlassian.net/jira/software/projects/DATOS12021/boards/1/backlog). In here you can watch how the different tasks were made and who and the progress of
-how we developed the game.
+We kept a record of the tasks we assigned to each member of the group and its progress in [Jira](https://thespaceinvaders.atlassian.net/jira/software/projects/DATOS12021/boards/1/backlog).
+In here you can watch how the different tasks were made and who and the progress of how we developed the game.
 
 ### Class Diagram
 We also made a class diagram to have an idea of what we needed and what we wanted to do before starting to make the game.
