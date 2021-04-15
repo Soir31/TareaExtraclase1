@@ -8,10 +8,7 @@ enemies.
 We kept a record of the tasks we made in [Jira](https://thespaceinvaders.atlassian.net/jira/software/projects/DATOS12021/boards/1/backlog) to organize which tasks
 corresponded to who.
 
-You can use the [editor on GitHub](https://github.com/Soir31/TareaExtraclase1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ### Class Diagram
 We also made a class diagram to have an idea of what we needed before starting to make the game.
-
 
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
