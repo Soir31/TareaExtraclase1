@@ -4,6 +4,11 @@ In this project we made an alternative version of the famous game "Space Invader
 to the enemies and also applied different Oriented Object Programming methods. Space Invaders is a game in which the player controls a spaceship and shoots missiles to alien like
 looking enemies that are the invaders to protect the planet. The enemies will move down, left and right in the screen to try to reach the planet and invade it.
 
+We will put some code that we made for the game for you to have an idea of how the game was made. The function of the code of the next image that you can see is a basic code of
+the interface in which you can go from one scene to another and add an image for the background using an external link.
+
+![Interface Code](https://raw.githubusercontent.com/AlpizarGregory/SpaceInvaders/main/InterfaceDoc.jpg)
+
 ### Jira
 
 We kept a record of the tasks we assigned to each member of the group and its progress in [Jira](https://thespaceinvaders.atlassian.net/jira/software/projects/DATOS12021/boards/1/backlog).
