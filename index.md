@@ -1,4 +1,4 @@
-## Gregory Alpizar's group Documentation
+# Gregory Alpizar's group Documentation
 
 In this project we made an alternative version of the famous game "Space Invaders" in which we implemented the different types of linked lists in Java to give different behaviors
 to the enemies and also applied different Oriented Object Programming methods. Space Invaders is a game in which the player controls a spaceship and shoots missiles to alien like
@@ -19,5 +19,8 @@ thought that was necessary to complete the game in a good way.
 
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
 
-# By
-* Gregory Gerardo Alpízar Céspedes * Fabián Jesús Castillo Cerdas - Erick Daniel Obando Venegas - José Andrés Quirós Guzmán
+## By
+* Gregory Gerardo Alpízar Céspedes 
+* * Fabián Jesús Castillo Cerdas 
+* - Erick Daniel Obando Venegas 
+* - José Andrés Quirós Guzmán
