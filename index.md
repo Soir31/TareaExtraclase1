@@ -21,6 +21,6 @@ thought that was necessary to complete the game in a good way.
 
 ## By
 * Gregory Gerardo Alpízar Céspedes 
-* * Fabián Jesús Castillo Cerdas 
-* - Erick Daniel Obando Venegas 
-* - José Andrés Quirós Guzmán
+* Fabián Jesús Castillo Cerdas 
+* Erick Daniel Obando Venegas 
+* José Andrés Quirós Guzmán
