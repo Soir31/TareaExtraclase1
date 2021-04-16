@@ -19,7 +19,7 @@ thought that was necessary to complete the game in a good way.
 
 ![Class Diagram](https://raw.githubusercontent.com/Soir31/TareaExtraclase1/main/SpaceInvaders.png)
 
-## By
+### By:
 * Gregory Gerardo Alpízar Céspedes 
 * Fabián Jesús Castillo Cerdas 
 * Erick Daniel Obando Venegas 
